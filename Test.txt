@@ -1,0 +1,1 @@
+This is a test file for Data Structures and Algorithms Project on File Locator and Handler. This file is used to peform read, search and copy operations of project.
